@@ -32,6 +32,11 @@
       "protractor"
     ],
     "jhiPrefix": "jhi",
-    "enableTranslation": false
+    "enableTranslation": false,
+    "appsFolders": [
+      "contactmono"
+    ],
+    "directoryPath": "../",
+    "monitoring": "prometheus"
   }
 }
